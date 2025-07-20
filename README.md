@@ -1,40 +1,69 @@
-# ITAI2376 Deep Learning Portfolio – Gregory Livingston
+# Deep Learning Portfolio – ITAI 2376 | Your Name
 
-Welcome to my final portfolio for the ITAI 2376: Deep Learning course. This repository showcases the knowledge, skills, and projects I developed throughout the semester.
-
-## 📁 Repository Structure
-
-- `Module_01_Intro/` – Overview of deep learning, course setup, initial reflections
-- `Module_02_Neural_Networks/` – Core concepts of neural networks, forward/backward propagation
-- `Module_03_Optimizers/` – Comparative analysis of optimizers (SGD, Adam, RMSprop)
-- `Module_04_CNNs/` – Convolutional neural networks and their application to image data
-- `Final_Project/` – Complete prototype: AI Personal Wellness Coach (RAG-based assistant)
-
-## 🧠 Course Summary
-
-This course covered:
-- Deep learning foundations and architecture
-- Neural networks and training processes
-- Optimizers and their performance
-- CNNs, RNNs, and Transformers
-- Final project: AI system using modern architectures
-
-## 🚀 Final Project
-
-The **AI Personal Wellness Coach** helps users manage their physical and mental health using Retrieval-Augmented Generation (RAG) and vector search. It pulls from a knowledge base to answer questions, monitor mood, and give support in real time.
-
-✅ Includes:
-- Code
-- Data pipeline
-- Report
-- Screenshots
-- Prototype demo
-
-## 🔗 GitHub Pages & Resources
-
-- [PowerPoint Presentation (PDF)](./Final_Project/Pf_GregoryLivingston_ITAI2376.pdf)  
-- [Final Project Report](./Final_Project/final_report.pdf)
+Welcome to my deep learning portfolio for the ITAI 2376 course. This repository documents my progress through all 14 modules of the course. Inside, you'll find presentation files, assignments, code notebooks, and reflections that demonstrate what I’ve learned.
 
 ---
 
-> This portfolio represents my growth and passion for AI, and I'm excited to keep building on this foundation. Thank you for reviewing my work!
+## 📘 Modules Overview
+
+### 🔹 Module 01: Course Introduction
+Introduced the foundations of deep learning and how it fits within the field of artificial intelligence. Covered what to expect throughout the course.
+
+### 🔹 Module 02: Environments & Tools
+Explored popular programming languages and frameworks for deep learning, such as Python, PyTorch, and TensorFlow. I compared using a local machine versus cloud platforms (like Google Colab and AWS) for training deep learning models.
+
+### 🔹 Module 03: Neural Networks
+Learned how neural networks are structured using layers, weights, biases, and activation functions. Practiced training networks using backpropagation and optimization techniques.
+
+### 🔹 Module 04: Convolutional Neural Networks
+Focused on image processing tasks using CNNs. Gained experience with filters, pooling layers, and how CNNs learn to recognize visual patterns.
+
+### 🔹 Module 05: Sequence Modeling and NLP
+Studied recurrent networks and how they are used in natural language tasks. Worked with sequences, word embeddings, and LSTM layers.
+
+### 🔹 Module 06: Transformers & Attention
+Examined how attention mechanisms improve performance in sequence tasks. Learned the architecture behind modern transformer models used in NLP and computer vision.
+
+### 🔹 Module 07: Autoencoders and VAEs
+Looked at how autoencoders compress and reconstruct input data. Learned how variational autoencoders introduce randomness to generate new examples.
+
+### 🔹 Module 08: Generative Adversarial Networks (GANs)
+Explored the interaction between generator and discriminator networks. Reviewed how GANs are used in deepfake creation and image generation.
+
+### 🔹 Module 09: Diffusion Models
+Learned about a newer generation of generative models that work through iterative denoising. Implemented sampling using a U-Net structure.
+
+### 🔹 Module 10: Reinforcement Learning
+Studied the behavior of learning agents interacting with environments. Applied concepts like rewards, policies, and value estimation.
+
+### 🔹 Module 11: Reasoning Models and RAG
+Focused on retrieval-augmented generation (RAG) and reasoning using large language models. Discussed how to make LLMs more reliable in generating answers.
+
+### 🔹 Module 12: Agent Planning and Orchestration
+Studied how to create multi-step agents that use memory and decision-making to plan over time. Covered orchestration in multi-agent systems.
+
+### 🔹 Module 13: AI Agents in Action
+Implemented an AI agent using a provided notebook. This module connected all previous lessons by bringing together reasoning, memory, and planning.
+
+### 🔹 Module 14: Multi-Agent Systems
+Discussed scaling and coordination between multiple agents. Covered system design considerations for collaborative AI.
+
+---
+
+## 🧪 Final Project (Coming Soon)
+A brief summary of your project goes here. Example:  
+> "I'm building a personal AI wellness assistant that uses RAG to answer health questions and monitor moods. It combines multiple AI tools I’ve learned in this course."
+
+---
+
+## 🛠 Tools & Frameworks Used
+- **Languages:** Python  
+- **Frameworks:** PyTorch, TensorFlow, JAX  
+- **Platforms:** Google Colab, GitHub, Hugging Face  
+- **Tools:** Jupyter Notebooks, Visual Studio Code
+
+---
+
+## 🔗 Portfolio Presentation
+📁 `Pf_YourName_ITAI2376.pdf` – Includes slides summarizing the most important topics from each module and final project highlights.  
+📎 
