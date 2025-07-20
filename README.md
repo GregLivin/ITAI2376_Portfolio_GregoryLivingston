@@ -2,18 +2,18 @@
 **Student:** Gregory Livingston  
 **Course:** ITAI 2376 – Deep Learning  
 **Semester:** Summer 2025  
-**Instructor:** [Insert Instructor Name]  
+**Instructor:** Professor: Anna Devarakonda 
 **Portfolio Presentation:** [Pf_GregoryLivingston_ITAI23761.pdf](./Pf_GregoryLivingston_ITAI23761.pdf)  
 **GitHub Repo:** https://github.com/GregLivin/ITAI2376_Portfolio_GregoryLivingston
 
 ---
 
-## 📘 Overview
+## Overview
 This portfolio documents my learning journey through the ITAI 2376 Deep Learning course at Houston Community College. Each module provided new concepts, hands-on labs, and real-world tools used in artificial intelligence. Below is a summary of what I learned from each module and supporting assignments, visuals, and screenshots.
 
 ---
 
-## ✅ Module Summaries
+## Module Summaries
 
 ### Module 01: Deep Learning  
 I learned that Artificial Intelligence (AI) is the broad field for intelligent machines, Machine Learning (ML) is a subfield that helps them learn from data, and Deep Learning is a further subfield that uses layered neural networks to find patterns. I also learned important terms like neurons, activation functions, backpropagation, and loss functions.
@@ -59,19 +59,22 @@ I studied how multiple AI agents communicate and coordinate in shared environmen
 
 ---
 
-## 🛠 Tools and Frameworks Used
-- Google Colab  
+## Tools and Frameworks Used 
 - Python  
 - PyTorch  
 - TensorFlow  
-- Jupyter Notebooks  
-- Hugging Face  
-- Visual Studio Code  
 - GitHub
 
 ---
 
-## 🖼️ Image & Slide References
+## Image & Slide References
+Houston Community College. (2025). ITAI 2376 Module 01: Deep Learning. Course materials, Summer 2025.​
 
-All visuals are either created by me, AI-generated for educational purposes, or adapted from course-provided materials.
+Houston Community College. (2025). ITAI 2376 Module 04: Convolutional Neural Networks. Course materials, Summer 2025.​
 
+Houston Community College. (2025). ITAI 2376 Modules 05–07: Sequence Modeling, Transformers, and VAEs. Course materials, Summer 2025.​
+
+Houston Community College. (2025). ITAI 2376 Modules 08–10: Generative Adversarial Networks, Diffusion Models, and Reinforcement Learning. Course materials, Summer 2025.​
+
+Houston Community College. (2025). ITAI 2376 Modules 11–14: Reasoning Models, Agent Planning, AI Agents, and Multi-Agent Systems. Course materials, Summer 2025.​
+Note: All images used are adapted from HCC course materials or created for educational purposes only.
