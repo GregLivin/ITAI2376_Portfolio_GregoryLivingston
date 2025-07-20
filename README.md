@@ -1,8 +1,8 @@
-# ITAI 2376 – Deep Learning Portfolio  
-**Student:** Gregory Livingston  
-**Course:** ITAI 2376 – Deep Learning  
-**Semester:** Summer 2025  
-**Instructor:** Professor: Anna Devarakonda 
+### ITAI 2376 – Deep Learning Portfolio  
+Gregory Livingston  
+ITAI 2376 – Deep Learning  
+Summer 2025  
+Professor: Anna Devarakonda 
 **Portfolio Presentation:** [Pf_GregoryLivingston_ITAI23761.pdf](./Pf_GregoryLivingston_ITAI23761.pdf)  
 **GitHub Repo:** https://github.com/GregLivin/ITAI2376_Portfolio_GregoryLivingston
 
